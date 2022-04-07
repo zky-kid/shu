@@ -1,0 +1,105 @@
+2022-04-03 16:01:41.575  INFO 7108 --- [main] com.example.Application                  : Starting Application on DESKTOP-BCSAO3I with PID 7108 (C:\Users\zky1111\Desktop\shujiluntan\target\classes started by zky1111 in C:\Users\zky1111\Desktop\shujiluntan)
+2022-04-03 16:01:41.600  INFO 7108 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2022-04-03 16:01:42.380  WARN 7108 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2022-04-03 16:01:43.466  INFO 7108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-04-03 16:01:43.496  INFO 7108 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-03 16:01:43.496  INFO 7108 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2022-04-03 16:01:43.514  INFO 7108 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Programming\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;E:\Programming\apache-maven-3.8.4\bin;E:\node\;E:\node\node_global;E:\Programming\Git\cmd;E:\Programming\Microsoft VS Code\bin;C:\Users\zky1111\AppData\Local\Microsoft\WindowsApps;E:\Programming\IntelliJ IDEA Community Edition 2021.3.1\bin;;E:\Programming\IntelliJ IDEA 2020.3.2\bin;;%NODE_PATH%\node_global;;.]
+2022-04-03 16:01:43.618  INFO 7108 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-03 16:01:43.618  INFO 7108 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1960 ms
+2022-04-03 16:01:43.642  INFO 7108 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2022-04-03 16:01:43.646  INFO 7108 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-04-03 16:01:43.647  INFO 7108 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-04-03 16:01:43.647  INFO 7108 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2022-04-03 16:01:43.647  INFO 7108 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-04-03 16:01:44.430  INFO 7108 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-03 16:01:44.687  INFO 7108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-04-03 16:01:44.692  INFO 7108 --- [main] com.example.Application                  : Started Application in 3.694 seconds (JVM running for 4.877)
+2022-04-03 16:03:16.038  INFO 7108 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-03 16:03:16.038  INFO 7108 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-03 16:03:16.045  INFO 7108 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2022-04-03 16:03:26.989  INFO 7108 --- [http-nio-8888-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-03 16:03:27.154  INFO 7108 --- [http-nio-8888-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-03 16:04:15.254  INFO 15380 --- [main] com.example.Application                  : Starting Application on DESKTOP-BCSAO3I with PID 15380 (C:\Users\zky1111\Desktop\shujiluntan\target\classes started by zky1111 in C:\Users\zky1111\Desktop\shujiluntan)
+2022-04-03 16:04:15.257  INFO 15380 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2022-04-03 16:04:15.959  WARN 15380 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2022-04-03 16:04:16.488  INFO 15380 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-04-03 16:04:16.510  INFO 15380 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-03 16:04:16.510  INFO 15380 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2022-04-03 16:04:16.515  INFO 15380 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Programming\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;E:\Programming\apache-maven-3.8.4\bin;E:\node\;E:\node\node_global;E:\Programming\Git\cmd;E:\Programming\Microsoft VS Code\bin;C:\Users\zky1111\AppData\Local\Microsoft\WindowsApps;E:\Programming\IntelliJ IDEA Community Edition 2021.3.1\bin;;E:\Programming\IntelliJ IDEA 2020.3.2\bin;;%NODE_PATH%\node_global;;.]
+2022-04-03 16:04:16.613  INFO 15380 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-03 16:04:16.613  INFO 15380 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1315 ms
+2022-04-03 16:04:16.633  INFO 15380 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2022-04-03 16:04:16.638  INFO 15380 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-04-03 16:04:16.639  INFO 15380 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-04-03 16:04:16.639  INFO 15380 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2022-04-03 16:04:16.639  INFO 15380 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-04-03 16:04:17.385  INFO 15380 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-03 16:04:17.628  INFO 15380 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-04-03 16:04:17.631  INFO 15380 --- [main] com.example.Application                  : Started Application in 2.892 seconds (JVM running for 3.983)
+2022-04-03 16:04:21.174  INFO 15380 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-03 16:04:21.175  INFO 15380 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-03 16:04:21.183  INFO 15380 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2022-04-03 16:04:21.513  INFO 15380 --- [http-nio-8888-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-03 16:04:21.629  INFO 15380 --- [http-nio-8888-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-03 23:23:12.585  INFO 17152 --- [main] com.example.Application                  : Starting Application on DESKTOP-BCSAO3I with PID 17152 (C:\Users\zky1111\Desktop\shujiluntan\target\classes started by zky1111 in C:\Users\zky1111\Desktop\shujiluntan)
+2022-04-03 23:23:12.590  INFO 17152 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2022-04-03 23:23:13.458  WARN 17152 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2022-04-03 23:23:14.116  INFO 17152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-04-03 23:23:14.141  INFO 17152 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-03 23:23:14.142  INFO 17152 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2022-04-03 23:23:14.150  INFO 17152 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Programming\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;E:\Programming\apache-maven-3.8.4\bin;E:\node\;E:\node\node_global;E:\Programming\Git\cmd;E:\Programming\Microsoft VS Code\bin;C:\Users\zky1111\AppData\Local\Microsoft\WindowsApps;E:\Programming\IntelliJ IDEA Community Edition 2021.3.1\bin;;E:\Programming\IntelliJ IDEA 2020.3.2\bin;;%NODE_PATH%\node_global;;.]
+2022-04-03 23:23:14.411  INFO 17152 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-03 23:23:14.411  INFO 17152 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1737 ms
+2022-04-03 23:23:14.436  INFO 17152 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2022-04-03 23:23:14.441  INFO 17152 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-04-03 23:23:14.441  INFO 17152 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-04-03 23:23:14.441  INFO 17152 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2022-04-03 23:23:14.441  INFO 17152 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-04-03 23:23:15.577  INFO 17152 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-03 23:23:15.913  INFO 17152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-04-03 23:23:15.915  INFO 17152 --- [main] com.example.Application                  : Started Application in 4.127 seconds (JVM running for 6.476)
+2022-04-03 23:23:31.384  INFO 17152 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-03 23:23:31.384  INFO 17152 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-03 23:23:31.393  INFO 17152 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2022-04-03 23:23:59.499  INFO 17152 --- [http-nio-8888-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-03 23:23:59.726  INFO 17152 --- [http-nio-8888-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-03 23:25:08.006  INFO 16828 --- [main] com.example.Application                  : Starting Application on DESKTOP-BCSAO3I with PID 16828 (C:\Users\zky1111\Desktop\shujiluntan\target\classes started by zky1111 in C:\Users\zky1111\Desktop\shujiluntan)
+2022-04-03 23:25:08.011  INFO 16828 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2022-04-03 23:25:08.819  WARN 16828 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2022-04-03 23:25:09.438  INFO 16828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-04-03 23:25:09.471  INFO 16828 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-03 23:25:09.471  INFO 16828 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2022-04-03 23:25:09.477  INFO 16828 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Programming\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;E:\Programming\apache-maven-3.8.4\bin;E:\node\;E:\node\node_global;E:\Programming\Git\cmd;E:\Programming\Microsoft VS Code\bin;C:\Users\zky1111\AppData\Local\Microsoft\WindowsApps;E:\Programming\IntelliJ IDEA Community Edition 2021.3.1\bin;;E:\Programming\IntelliJ IDEA 2020.3.2\bin;;%NODE_PATH%\node_global;;.]
+2022-04-03 23:25:09.585  INFO 16828 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-03 23:25:09.586  INFO 16828 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1515 ms
+2022-04-03 23:25:09.607  INFO 16828 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2022-04-03 23:25:09.620  INFO 16828 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-04-03 23:25:09.620  INFO 16828 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-04-03 23:25:09.621  INFO 16828 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2022-04-03 23:25:09.621  INFO 16828 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-04-03 23:25:10.494  INFO 16828 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-03 23:25:10.882  INFO 16828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-04-03 23:25:10.888  INFO 16828 --- [main] com.example.Application                  : Started Application in 3.449 seconds (JVM running for 4.93)
+2022-04-03 23:27:55.498  INFO 9120 --- [main] com.example.Application                  : Starting Application on DESKTOP-BCSAO3I with PID 9120 (C:\Users\zky1111\Desktop\shujiluntan\target\classes started by zky1111 in C:\Users\zky1111\Desktop\shujiluntan)
+2022-04-03 23:27:55.503  INFO 9120 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2022-04-03 23:27:56.171  WARN 9120 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2022-04-03 23:27:56.707  INFO 9120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-04-03 23:27:56.730  INFO 9120 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-03 23:27:56.730  INFO 9120 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2022-04-03 23:27:56.736  INFO 9120 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Programming\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;E:\Programming\apache-maven-3.8.4\bin;E:\node\;E:\node\node_global;E:\Programming\Git\cmd;E:\Programming\Microsoft VS Code\bin;C:\Users\zky1111\AppData\Local\Microsoft\WindowsApps;E:\Programming\IntelliJ IDEA Community Edition 2021.3.1\bin;;E:\Programming\IntelliJ IDEA 2020.3.2\bin;;%NODE_PATH%\node_global;;.]
+2022-04-03 23:27:56.844  INFO 9120 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-03 23:27:56.845  INFO 9120 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1292 ms
+2022-04-03 23:27:56.865  INFO 9120 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2022-04-03 23:27:56.870  INFO 9120 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-04-03 23:27:56.871  INFO 9120 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-04-03 23:27:56.871  INFO 9120 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2022-04-03 23:27:56.871  INFO 9120 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-04-03 23:27:57.655  INFO 9120 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-03 23:27:57.900  INFO 9120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2022-04-03 23:27:57.902  INFO 9120 --- [main] com.example.Application                  : Started Application in 2.889 seconds (JVM running for 3.959)
+2022-04-03 23:37:37.221  INFO 9120 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-03 23:37:37.221  INFO 9120 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-03 23:37:37.226  INFO 9120 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2022-04-03 23:37:37.453  INFO 9120 --- [http-nio-8888-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-03 23:37:37.555  INFO 9120 --- [http-nio-8888-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
